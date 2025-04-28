@@ -6,7 +6,6 @@
   <p>Ph.D. Student at RPI</p>
   <p><b>Email:</b> islamm9@rpi.edu</p>
   <p><b>Location:</b> Troy, New York</p>
-  <p><b>Links:</b><br>
   <a href="https://github.com/saikat15010">GitHub</a><br>
   <a href="https://scholar.google.com/citations?user=_KIOkQsAAAAJ&hl=en">Google Scholar</a><br>
   <a href="https://https://www.linkedin.com/in/bappy123//">LinkedIn</a>
