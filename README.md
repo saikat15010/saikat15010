@@ -2,7 +2,7 @@
 <tr>
 <td width="260" valign="top">
   <img src="https://github.com/saikat15010/saikat15010/blob/main/saikat.jpeg" alt="Md Saikat Islam Khan" width="260"/><br><br>
-  <h2>Md Saikat Islam Khan</h2>
+  <h1>Md Saikat Islam Khan</h1>
   <p>Ph.D. Student at RPI</p>
   <p><b>Email:</b> islamm9@rpi.edu</p>
   <p><b>Location:</b> Troy, New York</p>
