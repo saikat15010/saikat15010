@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="250" valign="top">
-  <img src="https://github.com/saikat15010/saikat15010/blob/main/saikat.jpeg" alt="Md Saikat Islam Khan" width="200"/><br><br>
+  <img src="https://github.com/saikat15010/saikat15010/blob/main/saikat.jpeg" alt="Md Saikat Islam Khan" width="250"/><br><br>
   
   <h2>Md Saikat Islam Khan</h2>
   <p>Ph.D. Student at RPI</p>
@@ -16,7 +16,7 @@
 
 <td valign="top">
 
-<h1>👋 Welcome!</h1>
+<h1>👋 Hi!</h1>
 
 I am <b>Saikat</b>, a Ph.D. student at <b>Rensselaer Polytechnic Institute</b>. My background is in <b>Computer Science</b>. My research interests include <b>Federated Learning, Data Privacy, Health Informatics</b>. I am fortunate to be advised by <b>Professor Oshani Seneviratne</b>.
 
