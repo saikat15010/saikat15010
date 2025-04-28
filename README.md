@@ -1,7 +1,7 @@
 <table>
 <tr>
-<td width="260" valign="top">
-  <img src="https://github.com/saikat15010/saikat15010/blob/main/saikat.jpeg" alt="Md Saikat Islam Khan" width="260"/><br><br>
+<td width="250" valign="top">
+  <img src="https://github.com/saikat15010/saikat15010/blob/main/saikat.jpeg" alt="Md Saikat Islam Khan" width="200"/><br><br>
   <h3>Md Saikat Islam Khan</h3>
   <p>Ph.D. Student at RPI</p>
   <p><b>Email:</b> islamm9@rpi.edu</p>
