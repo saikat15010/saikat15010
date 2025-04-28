@@ -7,10 +7,10 @@
 <h1 align="center">👋 Welcome!</h1>
 
 <p align="center">
-I am <b>Saikat</b>, a Ph.D. student at <b>[Resnnselaer Polytechnic Institute]</b>.
-My background is in <b>[Computer Science]</b>. 
+I am <b>Saikat</b>, a Ph.D. student at <b>Resnnselaer Polytechnic Institute</b>.
+My background is in <b>Computer Science</b>. 
 My research interests include <b>[Federated Learning, Data Privacy, Health Informatics]</b>. 
-I am fortunate to be advised by <b>[Professor Oshani Seneviratne]</b>.
+I am fortunate to be advised by <b>Professor Oshani Seneviratne</b>.
 </p>
 
 ---
