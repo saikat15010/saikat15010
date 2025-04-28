@@ -7,12 +7,12 @@
   <p>Ph.D. Student at Rensselaer Polytechnic Institute</p>
   <p><b>Location:</b> Troy, NY</p>
 
-  <p><b>Email:</b> your.email@example.com</p>
+  <p><b>Email:</b> islamm9@rpi.edu, bappy.10.cse.mbstu@gmail.com</p>
   
   <p><b>Links:</b><br>
   <a href="https://github.com/saikat15010">GitHub</a><br>
-  <a href="https://scholar.google.com/citations?user=your-google-scholar-id">Google Scholar</a><br>
-  <a href="https://www.linkedin.com/in/your-linkedin-id/">LinkedIn</a>
+  <a href="https://scholar.google.com/citations?user=_KIOkQsAAAAJ&hl=en">Google Scholar</a><br>
+  <a href="https://https://www.linkedin.com/in/bappy123//">LinkedIn</a>
   </p>
 </td>
 
