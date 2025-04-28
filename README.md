@@ -1,17 +1,20 @@
 <table>
 <tr>
-<td width="250" valign="top">
-  <img src="https://github.com/saikat15010/saikat15010/blob/main/saikat.jpeg" alt="Saikat" width="250"/><br><br>
-  <h2>Saikat</h2>
-  <p>Ph.D. Student at RPI</p>
-  <p><b>Location:</b> Troy, NY</p>
+<td width="250" valign="top" align="center">
+  <img src="https://github.com/saikat15010/saikat15010/blob/main/saikat.jpeg" alt="Saikat" width="200" style="border-radius: 50%;"/><br><br>
 
-  <p><b>Email:</b> islamm9@rpi.edu</p>
-  
+  <h2>Saikat</h2>
+
+  <p>Ph.D. Student at RPI</p>
+
+  <p>📍 <b>Location:</b> Troy, NY</p>
+
+  <p>✉️ <b>Email:</b> islamm9@rpi.edu</p>
+
   <p><b>Links:</b><br>
-  <a href="https://github.com/saikat15010">GitHub</a><br>
-  <a href="https://scholar.google.com/citations?user=_KIOkQsAAAAJ&hl=en">Google Scholar</a><br>
-  <a href="https://www.linkedin.com/in/bappy123//">LinkedIn</a>
+  🔗 <a href="https://github.com/saikat15010">GitHub</a><br>
+  🎓 <a href="https://scholar.google.com/citations?user=_KIOkQsAAAAJ&hl=en">Google Scholar</a><br>
+  🔗 <a href="https://www.linkedin.com/in/bappy123/">LinkedIn</a>
   </p>
 </td>
 
