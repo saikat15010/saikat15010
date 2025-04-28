@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Saikat -->
 
 <p align="center">
-  <img src="your-profile-picture-url" alt="Saikat" width="200"/>
+  <img src="https://github.com/saikat15010/saikat15010/blob/main/saikat.jpeg" alt="Saikat" width="200"/>
 </p>
 
 <h1 align="center">👋 Welcome!</h1>
