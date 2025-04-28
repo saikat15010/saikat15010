@@ -4,7 +4,7 @@
   <img src="https://github.com/saikat15010/saikat15010/blob/main/saikat.jpeg" alt="Md Saikat Islam Khan" width="200"/><br><br>
   
   <h2>Md Saikat Islam Khan</h2>
-  <p>Ph.D. Student at Rensselaer Polytechnic Institute</p>
+  <p>Ph.D. Student at RPI</p>
   <p><b>Location:</b> Troy, NY</p>
 
   <p><b>Email:</b> islamm9@rpi.edu, bappy.10.cse.mbstu@gmail.com</p>
