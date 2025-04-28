@@ -1,64 +1,71 @@
-<!-- GitHub Profile README for Saikat -->
+<table>
+<tr>
+<td width="250" valign="top">
+  <img src="https://github.com/saikat15010/saikat15010/blob/main/saikat.jpeg" alt="Saikat" width="200"/><br><br>
+  
+  <h2>Saikat</h2>
+  <p>Ph.D. Student at Rensselaer Polytechnic Institute</p>
+  <p><b>Location:</b> Troy, NY</p>
 
-<p align="center">
-  <img src="https://github.com/saikat15010/saikat15010/blob/main/saikat.jpeg" alt="Saikat" width="200"/>
-</p>
+  <p><b>Email:</b> your.email@example.com</p>
+  
+  <p><b>Links:</b><br>
+  <a href="https://github.com/saikat15010">GitHub</a><br>
+  <a href="https://scholar.google.com/citations?user=your-google-scholar-id">Google Scholar</a><br>
+  <a href="https://www.linkedin.com/in/your-linkedin-id/">LinkedIn</a>
+  </p>
+</td>
 
-<h1 align="center">👋 Welcome!</h1>
+<td valign="top">
 
-<p align="center">
-I am <b>Saikat</b>, a Ph.D. student at <b>Resnnselaer Polytechnic Institute</b>.
-My background is in <b>Computer Science</b>. 
-My research interests include <b>Federated Learning, Data Privacy, Health Informatics</b>. 
+<h1>👋 Welcome!</h1>
+
+I am <b>Saikat</b>, a Ph.D. student at <b>Rensselaer Polytechnic Institute</b>.<br>
+My background is in <b>Computer Science</b>.<br>
+My research interests include <b>Federated Learning, Data Privacy, Health Informatics</b>.<br>
 I am fortunate to be advised by <b>Professor Oshani Seneviratne</b>.
-</p>
 
 ---
 
 ## 📚 Education
 
-- **202X - Present**: Ph.D. in **[Your Program]**, **[Your University Name]**
-- **20XX - 20XX**: B.Sc. in **[Your Bachelor's Program]**, **[Your Bachelor's University Name]**
+- **202X - Present**: Ph.D. in Computer Science, Rensselaer Polytechnic Institute
+- **20XX - 20XX**: B.Sc. in [Your Bachelor's Program], [Your Bachelor's University Name]
 
 ---
 
 ## 💬 Current Projects
 
 - **202X - Now**:
-  - **Applications**: [Application areas, e.g., Smart Materials, Machine Learning, Speech Processing]
-  - **Theory**: [Theoretical areas, e.g., Optimization, Distributed Learning, Statistical Modeling]
+  - **Applications**: Smart Materials, Machine Learning, Speech Processing
+  - **Theory**: Optimization, Distributed Learning, Statistical Modeling
 
 ---
 
 ## 📢 Recent News
 
-- **Month Year**: 🎉 Our paper is accepted to **[Journal or Conference Name]**
-- **Month Year**: 🏆 Received **[Award/Recognition]**
-- **Month Year**: ✈️ Presented research at **[Conference/Event Name]**
+- **December 2024**: 🎉 Our paper accepted to IEEE/ACM Transactions on Audio, Speech, and Language Processing
+- **September 2024**: 🏆 Paper accepted to NeurIPS 2024
+- **June 2024**: ✈️ Paper accepted to INTERSPEECH 2024
 
 ---
 
 ## 📝 Publications
 
 ### 📖 Journal Papers
-- [Paper Title 1](#)
-- [Paper Title 2](#)
-- [Paper Title 3](#)
+- [Bilevel Joint Unsupervised and Supervised Training for Automatic Speech Recognition](#)
+- [CapsCovNet: A Modified Capsule Network to Diagnose COVID-19](#)
+- [Abnormality Detection in Musculoskeletal Radiographs Using Capsule Network](#)
 
 ### 🗣️ Conference Papers
-- [Paper Title 4](#)
-- [Paper Title 5](#)
+- [FERERO: A Flexible Framework for Preference-Guided Multi-Objective Learning](#)
+- [Multilingual Speech Recognition and Multi-Objective Learning](#)
 
 ---
 
-## 📫 Connect with Me
-
-<p align="left">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://scholar.google.com/citations?user=your-google-scholar-id"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
