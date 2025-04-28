@@ -30,29 +30,29 @@ I am <b>Saikat</b>, a Ph.D. student at <b>Rensselaer Polytechnic Institute</b>. 
 ## 💬 Current Projects
 
 - **202X - Now**:
-  - **Applications**: Smart Materials, Machine Learning, Speech Processing
-  - **Theory**: Optimization, Distributed Learning, Statistical Modeling
+  - **Applications**: Smart
+  - **Theory**: Optimization
 
 ---
 
 ## 📢 Recent News
 
-- **December 2024**: 🎉 Our paper accepted to IEEE/ACM Transactions on Audio, Speech, and Language Processing
-- **September 2024**: 🏆 Paper accepted to NeurIPS 2024
-- **June 2024**: ✈️ Paper accepted to INTERSPEECH 2024
+- **December 2024**: 🎉 Our paper accepted 
+- **September 2024**: 🏆 Paper accepted 
+- **June 2024**: ✈️ Paper accepted 
 
 ---
 
 ## 📝 Publications
 
 ### 📖 Journal Papers
-- [Bilevel Joint Unsupervised and Supervised Training for Automatic Speech Recognition](#)
-- [CapsCovNet: A Modified Capsule Network to Diagnose COVID-19](#)
-- [Abnormality Detection in Musculoskeletal Radiographs Using Capsule Network](#)
+- [cc](#)
+- [bb](#)
+- [aa](#)
 
 ### 🗣️ Conference Papers
-- [FERERO: A Flexible Framework for Preference-Guided Multi-Objective Learning](#)
-- [Multilingual Speech Recognition and Multi-Objective Learning](#)
+- [bb](#)
+- [aa](#)
 
 ---
 
