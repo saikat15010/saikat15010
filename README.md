@@ -20,10 +20,7 @@
 
 <h1>👋 Welcome!</h1>
 
-I am <b>Saikat</b>, a Ph.D. student at <b>Rensselaer Polytechnic Institute</b>.<br>
-My background is in <b>Computer Science</b>.<br>
-My research interests include <b>Federated Learning, Data Privacy, Health Informatics</b>.<br>
-I am fortunate to be advised by <b>Professor Oshani Seneviratne</b>.
+I am <b>Saikat</b>, a Ph.D. student at <b>Rensselaer Polytechnic Institute</b>. My background is in <b>Computer Science</b>. My research interests include <b>Federated Learning, Data Privacy, Health Informatics</b>. I am fortunate to be advised by <b>Professor Oshani Seneviratne</b>.
 
 ---
 
