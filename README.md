@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="250" valign="top">
-  <img src="https://github.com/saikat15010/saikat15010/blob/main/saikat.jpeg" alt="Saikat" width="200"/><br><br>
+  <img src="https://github.com/saikat15010/saikat15010/blob/main/saikat.jpeg" alt="Md Saikat Islam Khan" width="200"/><br><br>
   
   <h2>Saikat</h2>
   <p>Ph.D. Student at Rensselaer Polytechnic Institute</p>
